@@ -6,6 +6,10 @@
 [![Hugging Face](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow.svg)](https://huggingface.co/datasets/MichaelP84/manga-colorization-dataset)
 [![Colab](https://img.shields.io/badge/Google-Colab-orange.svg)](https://colab.research.google.com/)
 
+## 📎 Live Demo - Canlı Demo
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/koesan/mangaspaces)
+
 ---
 
 🇬🇧[English](#english) | 🇹🇷[Türkçe](#türkçe)
